@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  usage_message.cpp
+  Parsing.cpp
+  lab 0.cpp
+  digit_print.cpp
+\\warehouse2.seasad.wustl.edu\home\weifan\my documents\visual studio 2013\projects\lab 0\lab 0\digit_print.cpp(41): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  lab 0.vcxproj -> \\warehouse2.seasad.wustl.edu\home\weifan\My Documents\Visual Studio 2013\Projects\lab 0\Debug\lab 0.exe
+  lab 0.vcxproj -> \\warehouse2.seasad.wustl.edu\home\weifan\My Documents\Visual Studio 2013\Projects\lab 0\Debug\lab 0.pdb (Full PDB)
